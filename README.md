@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am a future cool specialist in the development of neurosystems.
+
+You'll see everything soon 😉
+
 <!--
 **karlwoww/karlwoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
