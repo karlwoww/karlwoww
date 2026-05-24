@@ -4,6 +4,18 @@
 
 Изучаю разработку нейросетей, machine learning и computer vision.
 
+---
+
+# Contacts
+
+- GitHub: https://github.com/karlwoww
+- Telegram: @sc5423
+- Email: karlwowk@gmail.com
+
+---
+
+# About Me
+
 Интересуюсь:
 - LLM
 - Computer Vision
@@ -11,9 +23,11 @@
 - Deep Learning
 - NLP
 
+Разрабатываю AI/ML проекты на Python, изучаю deep learning, computer vision и современные нейросетевые архитектуры.
+
 ---
 
-## Tech Stack
+# Tech Stack
 
 - Python
 - PyTorch
@@ -25,61 +39,91 @@
 - NumPy
 - Flutter
 - Git/GitHub
+- Jupyter Notebook
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### 🩸 Blood Cell Detection with YOLOv8
+## 🩸 Blood Cell Detection with YOLOv8
+
 Детекция клеток крови с использованием YOLOv8 и PyTorch.
 
-Технологии:
+### Технологии:
 - YOLOv8
 - PyTorch
 - Computer Vision
 - Medical AI
 
-Результаты:
+### Что реализовано:
+- обучение модели детекции;
+- работа с датасетом TXL-PBC;
+- визуализация результатов;
+- анализ метрик качества;
+- тестирование модели.
+
+### Результаты:
 - mAP@0.5 = 0.984
+- mAP@0.5:0.95 = 0.860
 
 🔗 https://github.com/karlwoww/blood-cell-detection-yolov8
 
 ---
 
-### 🤖 AI Consultant Tech
+## 🤖 AI Consultant Tech
+
 AI-ассистент магазина электроники с обработкой пользовательских запросов.
 
-Технологии:
+### Технологии:
 - Python
 - NLP
 - Prompt Engineering
+- Jupyter Notebook
+
+### Возможности:
+- ответы на вопросы о товарах;
+- информация о доставке;
+- обработка пользовательских запросов;
+- работа с базой знаний.
 
 🔗 https://github.com/karlwoww/AI_consultant_tech
 
 ---
 
-### 💬 AI Chat Flutter
+## 💬 AI Chat Flutter
+
 AI чат-приложение на Flutter.
 
-Технологии:
+### Технологии:
 - Flutter
 - Dart
 - AI API
+
+### Возможности:
+- AI чат-интерфейс;
+- обработка сообщений;
+- современный мобильный UI;
+- интеграция AI API.
 
 🔗 https://github.com/karlwoww/aichat-flutter
 
 ---
 
-## Education
+# Education
 
-Neural Network Developer Course
+- Neural Network Developer Course
+- Практика разработки AI/ML проектов
+- Изучение Computer Vision и Deep Learning
 
 ---
 
-## Contacts
+# Goals
 
-## Contacts
+Планирую развиваться в направлениях:
+- AI Engineering
+- Computer Vision
+- LLM applications
+- Deep Learning
+- MLOps
 
-- GitHub: https://github.com/karlwoww
-- Telegram: @sc5423
-- Email: karlwowk@gmail.com
+---
