@@ -78,5 +78,8 @@ Neural Network Developer Course
 
 ## Contacts
 
-GitHub:
-https://github.com/karlwoww
+## Contacts
+
+- GitHub: https://github.com/karlwoww
+- Telegram: @sc5423
+- Email: karlwowk@gmail.com
